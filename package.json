@@ -1,0 +1,15 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "My first web-scraper (following Ania Kubow)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-scraper",
+    "scraper"
+  ],
+  "author": "Saad Ahmed <saad18910@hotmail.com>",
+  "license": "ISC"
+}

@@ -1,0 +1,10 @@
+Web Scraping:
+- Quickly collecting data from a website (Scraping Data)
+
+Stack Used:
+- Node
+- Js
+- ExpressJs
+- Axios
+- Cheerio
+
