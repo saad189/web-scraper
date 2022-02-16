@@ -11,5 +11,8 @@
     "scraper"
   ],
   "author": "Saad Ahmed <saad18910@hotmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
